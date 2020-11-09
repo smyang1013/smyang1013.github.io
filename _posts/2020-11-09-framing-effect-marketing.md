@@ -71,6 +71,8 @@ description: '프레이밍 효과, 마케팅에도 놀라운 결과를 가져옵
 
 아래 영상을 통해 프레이밍이 주는 놀라운 효과를 확인할 수 있습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AKbEnETZk6w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/AKbEnETZk6w' frameborder='0' allowfullscreen></iframe></div>
+
 
 **똑같은 정보일지라도 어떻게 전달하느냐에 따라 사람들은 다르게 받아들일 수 있다**는 점을 강조하며 오늘의 포스팅을 마치겠습니다.
