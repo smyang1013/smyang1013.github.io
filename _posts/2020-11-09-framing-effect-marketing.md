@@ -70,6 +70,7 @@ description: '프레이밍 효과, 마케팅에도 놀라운 결과를 가져옵
 특정 정당을 지지한다거나 정부의 부동산 정책에 찬성하는지 반대하는지 등 이러한 것들이 나의 이해관계와 일치하고 정말로 내가 원해서 선택하는 것일까요? 아니면 누군가에 의해 만들어진 것일까요?
 
 아래 영상을 통해 프레이밍이 주는 놀라운 효과를 확인할 수 있습니다.
-https://youtu.be/AKbEnETZk6w
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AKbEnETZk6w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **똑같은 정보일지라도 어떻게 전달하느냐에 따라 사람들은 다르게 받아들일 수 있다**는 점을 강조하며 오늘의 포스팅을 마치겠습니다.
