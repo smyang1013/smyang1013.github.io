@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://beingguru.life/sitemap.xml
+DaumWebMasterTool:2e642e0048a35aab1e4e3ca635f41ee1985cb79dcd439ceef71e0f5f95f3f414:AjqBsM5N9OwqdGhcHVi0YA==
