@@ -77,6 +77,21 @@
     {% endfor %}
   {% endif %}
   <!-- End SEO Tag -->
+
+  {% if page.feature %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "{{ page.title }}",
+      "image": [
+        "{{ site.github.url }}{{ page.feature }}"
+       ],
+      "datePublished": "{{ page.date }}"
+    }
+    </script>
+  {% endif %}
+
   <!-- Favicon Tag -->
   <link rel="apple-touch-icon" sizes="57x57" href="{{ site.github.url }}/img/icon/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="{{ site.github.url }}/img/icon/apple-icon-60x60.png">
