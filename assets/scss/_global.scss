@@ -83,3 +83,8 @@ img::-moz-selection {
   color: $white;
   background: transparent;
 }
+
+.center-image {
+    margin: 0 auto;
+    display: block;
+}
