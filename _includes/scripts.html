@@ -48,6 +48,9 @@
               $('#success > .alert-success').append('</div>');
               //clear all fields
               $('#contactForm').trigger("reset");
+              dataLayer.push({
+                'event': 'submitContactForm'
+              });
             },
             error: function () {
               // Fail message
