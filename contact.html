@@ -34,3 +34,13 @@ form: true
     <button type="submit" class="btn btn-primary" id="sendMessageButton">전송하기</button>
   </div>
 </form>
+
+<script>
+  var formId = document.querySelector('#contactForm');
+  var submitForm = function() {
+    dataLayer.push({
+      'event': 'submitForm'
+    });
+  }
+  formId.addEventListener('submit', submitForm);
+</script>
